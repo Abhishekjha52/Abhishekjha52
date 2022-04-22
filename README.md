@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Abhishekjha52
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Programming
 - 🌱 I’m currently learning Java
 - 📫 How to reach me through Mail (abhishekkj522001@gmail.com)
 
