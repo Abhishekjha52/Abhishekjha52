@@ -1,12 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A Passionate CSE student who loves exploring new fields and empowering others.</h3>
+<h3 align="center">A passionate CSE student who loves exploring new fields and empowering others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha52&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha52" alt="abhishekjha52" /></a> </p>
-
 <img align="right" alt="Coding" width="400" src="https://github.com/Abhishekjha52/gif/blob/main/giffy.gif"></img>
-
 - 🔭 I’m currently working on [Website on tourism](https://github.com/Abhishekjha52/HTML-CSS-Project)
 
 - 🌱 I’m currently learning **C++, DSA, Java, SQL**
@@ -17,9 +15,7 @@
 
 - 📫 How to reach me **abhishekkj522001@gmail.com**
 
-- 📄 Know about my experiences : "C:\Users\ABHISHEK JHA\OneDrive\Desktop\My Certificates\Abhishek's Updated Resume.pdf"
-
-- ⚡ Fun fact **I don't have any :(**
+- ⚡ Fun fact **I think I am funny**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
