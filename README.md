@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A passionate CSE student who loves exploring new fields and empowering others.</h3>
+<h3 align="center">A Passionate CSE student who loves exploring new fields and empowering others.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha52&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha52" /> </p>
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekkj522001@gmail.com**
 
-- 📄 Know about my experiences [file:///C:/Users/ABHISHEK%20JHA/OneDrive/Desktop/My%20Certificates/Abhishek's%20Updated%20Resume.pdf](file:///C:/Users/ABHISHEK%20JHA/OneDrive/Desktop/My%20Certificates/Abhishek's%20Updated%20Resume.pdf)
+- 📄 Know about my experiences : "C:\Users\ABHISHEK JHA\OneDrive\Desktop\My Certificates\Abhishek's Updated Resume.pdf"
 
 - ⚡ Fun fact **I don't have any :(**
 
