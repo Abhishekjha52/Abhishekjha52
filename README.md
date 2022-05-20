@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha52&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha52" alt="abhishekjha52" /></a> </p>
-<img align="right" alt="Coding" width="500" src="https://github.com/Abhishekjha52/gif/blob/main/giffy.gif"></img>
+<img align="center" alt="Coding" width="500" src="https://github.com/Abhishekjha52/gif/blob/main/giffy.gif"></img>
 - 🔭 I’m currently working on [Website on tourism](https://github.com/Abhishekjha52/HTML-CSS-Project)
 
 - 🌱 I’m currently learning **C++, DSA, Java, SQL**
