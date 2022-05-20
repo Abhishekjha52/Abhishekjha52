@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A Passionate CSE student who loves exploring new fields and empowering others.</h3>
+<h3 align="center">A passionate CSE student who loves to Figure Out Stuffs!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha52&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha52" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha52" alt="abhishekjha52" /></a> </p>
-<img align="center" alt="Coding" width="500" src="https://github.com/Abhishekjha52/gif/blob/main/giffy.gif"></img>
+
 - 🔭 I’m currently working on [Website on tourism](https://github.com/Abhishekjha52/HTML-CSS-Project)
 
 - 🌱 I’m currently learning **C++, DSA, Java, SQL**
@@ -19,15 +19,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/abhishek-jha-668bb31bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-jha-668bb31bb/" height="30" width="40" /></a>
-<a href="https://fb.com/profile.php?id=100015974986189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015974986189" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abhishek_jha_052/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishek_jha_052/?hl=en" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/abhishek_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhishek_codes" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abhishekkj522001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekkj522001" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abhi_force" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abhi_force" height="30" width="40" /></a>
-<a href="https://leetcode.com/abhi_052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhi_052/" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@abhishekkj522001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@abhishekkj522001" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/abhishekkj522001/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekkj522001/profile" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhishek-jha-668bb31bb/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhishek-jha-668bb31bb/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/profile.php?id=100015974986189" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100015974986189" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/abhishek_jha_052/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/abhishek_jha_052/?hl=en" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/https://www.codechef.com/users/abhishek_codes" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/abhishek_codes" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/https://www.hackerrank.com/abhishekkj522001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/abhishekkj522001" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/abhi_force" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/abhi_force" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/https://leetcode.com/abhi_052/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/abhi_052/" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/https://www.hackerearth.com/@abhishekkj522001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="https://www.hackerearth.com/@abhishekkj522001" height="30" width="40" /></a>
+<a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishekkj522001/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishekkj522001/profile" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
