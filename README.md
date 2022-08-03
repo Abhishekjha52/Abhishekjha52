@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Abhishekjha52/gif/blob/main/giffy.gif"></img>
 
-- 🔭 I’m currently working on Java
+- 🔭 I’m currently working on Projects
 
 - 🌱 I’m currently learning **C++, DSA, Java, SQL**
 
