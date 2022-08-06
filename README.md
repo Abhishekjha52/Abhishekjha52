@@ -7,7 +7,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/Abhishekjha52/gif/blob/main/giffy.gif"></img>
 
-- 🔭 I’m currently working on Projects
+- 🔭 I’m currently working on Open Source Projects
 
 - 🌱 I’m currently learning **C++, DSA, Java, SQL**
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **abhishekkj522001@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **Solved Sudoku(Expert Level) under 6 minutes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
