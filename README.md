@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-<p align="right"><img src="https://github.com/Abhishekjha52/Gif/blob/main/giffy.gif"/>
+<p align="right"><img src="https://github.com/Abhishekjha52/Gif/blob/main/giffy.gif" width=100 height=100/>
 - 🔭 I’m currently working on [CRUD application](https://github.com/Abhishekjha52/CRUD-using-ReactJs)
 
 - 🌱 I’m currently learning **ReactJs**
