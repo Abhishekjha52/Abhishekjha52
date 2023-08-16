@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jha</h1>
-<h3 align="center">A passionate CSE student who loves to Figure Out Stuffs!</h3>
+<h3 align="center">A passionate CSE student who loves Problem solving and Logical Thinking!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha52&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha52" /> </p>
 
