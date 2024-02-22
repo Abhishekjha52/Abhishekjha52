@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [MERN Stack application](https://github.com/Abhishekjha52/Full-Stack-Project)
 
-- 🌱 I’m currently learning **ReactJs**
+- 🌱 I’m currently learning **ReactJs and NodeJs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishekjha52](https://github.com/Abhishekjha52)
 
