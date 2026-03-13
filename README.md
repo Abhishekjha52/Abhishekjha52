@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishekjha52&label=Profile%20views&color=0e75b6&style=flat" alt="abhishekjha52" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha52" alt="abhishekjha52" /></a> </p>
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishekjha52" alt="abhishekjha52" /></a> </p> -->
 
-<!-- <img src="https://github.com/Abhishekjha52/Gif/blob/main/giffy.gif" align=right width=400 height=350/> -->
+<img src="https://github.com/Abhishekjha52/Gif/blob/main/giffy.gif" align=right width=400 height=350/>
 
-<!-- <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p> -->
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
 
